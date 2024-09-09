@@ -1,7 +1,14 @@
 ## VTiNet for Visible-Thermal Video Object Segmentation
 
 Dataset and Code for the paper:
->Unveiling the Power of Visible-Thermal Video Object Segmentation
+>Unveiling the Power of Visible-Thermal Video Object Segmentation [[paper](https://ieeexplore.ieee.org/document/10368006)], 
+IEEE Transactions on Circuits and Systems for Video Technology, 2023.<details><summary>If you find our work useful for your research, please consider citing the paper:</summary> @article{yang2023unveiling,
+  title={Unveiling the Power of Visible-Thermal Video Object Segmentation},
+  author={Yang, Jinyu and Gao, Mingqi and Cong, Runmin and Wang, Chengjie and Zheng, Feng and Leonardis, Ale{\v{s}}},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2023},
+  publisher={IEEE}
+}
 
 ### The VisT300 Dataset
 
