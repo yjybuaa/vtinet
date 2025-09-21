@@ -1,8 +1,19 @@
-## VTiNet for Visible-Thermal Video Object Segmentation
+<h2 align="center">VTiNet for Visible-Thermal Video Object Segmentation [IEEE TCSVT 2023]</h2>
+
+<p align="center">
+    <a src="https://img.shields.io/badge/survey_paper-📘%20PDF-e05d28?style=flat-square" href="https://ieeexplore.ieee.org/document/10368006">
+        <img src="https://img.shields.io/badge/paper-📘%20PDF-e05d28?style=flat-square"></a>
+    <a href="https://huggingface.co/datasets/gaomingqi/VisT300">
+        <img src="https://img.shields.io/badge/dataset-🤗%20HuggingFace-007FFF?style=flat-square"></a>
+    <a src="https://img.shields.io/badge/awesome-🔥%20VOS-e68a00?style=flat-square" href="https://github.com/gaomingqi/Awesome-Video-Object-Segmentation">
+  <img src="https://img.shields.io/badge/awesome-🔥%20VOS-e68a00?style=flat-square">
+</a>
+
+</p>
 
 Dataset and Code for the paper:
->Unveiling the Power of Visible-Thermal Video Object Segmentation [[paper](https://ieeexplore.ieee.org/document/10368006)], 
-IEEE Transactions on Circuits and Systems for Video Technology, 2023.<details><summary>If you find our work useful for your research, please consider citing the paper:</summary> @article{yang2023unveiling,
+>Unveiling the Power of Visible-Thermal Video Object Segmentation [[paper](https://ieeexplore.ieee.org/document/10368006)]
+>IEEE Transactions on Circuits and Systems for Video Technology, 2023.<details><summary>If you find our work useful for your research, please consider citing the paper:</summary> @article{yang2023unveiling,
   title={Unveiling the Power of Visible-Thermal Video Object Segmentation},
   author={Yang, Jinyu and Gao, Mingqi and Cong, Runmin and Wang, Chengjie and Zheng, Feng and Leonardis, Ale{\v{s}}},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
