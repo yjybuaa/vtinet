@@ -12,7 +12,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2023.<details><s
 
 ### The VisT300 Dataset
 
-[Google Drive](https://drive.google.com/drive/folders/1OYD1dfIDi-JTJ6wLjtPxCD0lWKc-TXmu?usp=sharing)
+[Hugging Face](https://huggingface.co/datasets/gaomingqi/VisT300)
 
 ```
 VisT300
